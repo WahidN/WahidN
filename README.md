@@ -3,7 +3,7 @@ I'm a creative front-end developer from The Netherlands. But not so creative at 
 
 
 ## About me
-- 🔭 I’m currently working on [Front-end snippets](https://github.com/WahidN/front-end-snippets)
+- 🔭 I’m currently working on [Different experiments](https://github.com/WahidN/experiments)
 - 🌱 I’m currently learning a lot
 - 💬 Ask me about anything
 - 📫 How to reach me: wahid.nawzadi@gmail.com
