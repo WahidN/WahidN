@@ -3,9 +3,6 @@ I'm a creative front-end developer from The Netherlands. But not so creative at 
 
 
 ## About me
-- 🔭 I’m currently working on [Instachef](https://github.com/WahidN/instachef)
-- 🌱 I’m currently learning a lot
-- 💬 Ask me about anything
 - 📫 How to reach me: wahid.nawzadi@gmail.com
 
 ## Skills
